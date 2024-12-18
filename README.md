@@ -1,1 +1,0 @@
-# Understanding_Gradients_with_Logistic_Regression
